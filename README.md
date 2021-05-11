@@ -7,7 +7,8 @@ Use this repository and save your self for writing 30+ lines just for a button!
 Open up your terminal and execute the following commands
 ```
 git clone https://github.com/SATAN01/Pygame-Buttons
-cd Pygame-Buttons
+cd Pygame-Buttons (Optional)
+python example.py  (Optional; You run this to see the example button) 
 ```
 Now in your `foo.py` file import it like this:
 
