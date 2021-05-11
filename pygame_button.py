@@ -11,7 +11,7 @@ class Button:
 	width = 120,
 	height = 40,
 	color = (255,0,0),
-	hover_color = (0,255,0),):
+	hover_color = (0,255,0)):
 	    
 	    self.hover_color = hover_color
 	    self.color = color
