@@ -12,7 +12,7 @@ cd Pygame-Buttons
 Now in your `foo.py` file import it like this:
 
 ```
-from pygame_button import Button
+from pg_button import Button
 ```
 
 Note your folder structure should look something like :
