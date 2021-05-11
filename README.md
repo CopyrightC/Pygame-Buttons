@@ -19,7 +19,7 @@ Note your folder structure should look something like :
   /bar
     /Pygame-Buttons
     /your_file.py
-    /foobar   #Optional
+    /foobar -> Optional
 ```
 Now in `your_file.py` you can simply import Buttons like this
 
