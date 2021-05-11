@@ -10,9 +10,11 @@ git clone https://github.com/SATAN01/Pygame-Buttons
 cd Pygame-Buttons
 ```
 Now in your `foo.py` file import it like this:
+
 ```
 from Pygame_Buttons import Button
 ```
+
 Note your folder structure should look something like :
 ```
 /foo
