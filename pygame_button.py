@@ -4,10 +4,6 @@ from threading import Thread
 
 pygame.init()
 
-wid = pygame.display.set_mode((800,600))
-
-def x():
-	print("yes")
 
 class Button:
 
@@ -64,17 +60,3 @@ class Button:
 
 		except:
 			raise Exception("Unknown error")
-
-b = Button()
-
-while True:
-	wid.fill((255,255,255))
-	for event in pygame.event.get():
-		if event.type == pygame.QUIT:
-			pygame.quit()
-			sys.exit()
-		
-	b.place(wid,20,20)
-	b.text(wid,"hello",25,12,size=26)
-	b.function(x)
-	pygame.display.update()
