@@ -1,4 +1,3 @@
-# Pygame-Button-Class
 # Pygame-Buttons
 
 Wait pygame doesn't have buttons? No problem.
