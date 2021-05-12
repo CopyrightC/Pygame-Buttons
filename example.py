@@ -1,5 +1,5 @@
 import pygame
-from pg_button import Button #Import the Button class
+from pyg_btn import Button #Import the Button class
  
 import sys
 pygame.init()
