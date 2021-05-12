@@ -13,7 +13,7 @@ python example.py  (Optional; You run this to see the example button)
 Now in your `foo.py` file import it like this:
 
 ```
-from pg_button import Button
+from pyg_btn import Button
 ```
 
 Note your folder structure should look something like :
