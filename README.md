@@ -1,7 +1,7 @@
 # Pygame-Buttons
 
 Wait pygame doesn't have buttons? No problem.
-Use this repository and save yourself for writing 30+ lines just for a button!
+Use this repository and save yourself writing 30+ lines just for a button!
 
 # How do I import this file?
 Open up your terminal and execute the following commands
