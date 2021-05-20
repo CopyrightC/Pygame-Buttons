@@ -21,7 +21,8 @@ Note your folder structure should look something like :
 /foo
   /bar
     /Pygame-Buttons
-    /your_file.py
+      ... [repo files]
+      /your_file.py
     /foobar -> Optional
 ```
 
